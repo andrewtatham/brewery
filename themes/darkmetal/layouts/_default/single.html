@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    {{ partial "headcontent.html" . }}
+</head>
+
+<body>
+
+    <div>
+        {{ partial "header.html" . }}
+    </div>
+    <div class="gap"></div>
+    <div class="container">
+        <h1 class="display-4">{{ .Title }}</h1>
+        <main>
+            {{ .Content }}
+        </main>
+    </div>
+    <div class="gap"></div>
+    <div>
+        {{ partial "footer.html" . }}
+    </div>
+    {{ partial "tailcontent.html" . }}
+</body>
+
+</html>

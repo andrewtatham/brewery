@@ -1,0 +1,13 @@
+baseURL = "http://wrathandruinbrewing.com/"
+languageCode = "en-gb"
+title = "Wrath & Ruin Brewing"
+# theme = "ananke"
+theme = "darkmetal"
+pluralizelisttitles = false
+
+googleAnalytics = "UA-61053235-2"
+
+[params]
+facebook = "https://www.facebook.com/WrathnRuin/"
+twitter = "https://www.twitter.com/Wrath_n_Ruin/"
+email = "wrathandruinbrewing@gmail.com"

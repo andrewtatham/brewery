@@ -1,0 +1,32 @@
+---
+title: "Brewers"
+---
+<div class="row">
+    <div class="col-md">
+        <div class="simon">
+            <img src=/img/simon3.jpg class="img-fluid rounded-circle">
+            <h1 class="display-4">Simon</h1>
+            <p class="lead">
+                Head Brewer
+            </p>
+            <p>
+                Simon had to endure being harassed by Mark to try craft beer and eventually caved and tried an IPA. This was the start of a journey, which has seen him get a handle on many different styles of beer – especially Belgian styles on many trips there. Starting home brewing a few years ago Simon quickly found himself in his element and knew this is what he wanted to do for a living. Eighteen months ago he teamed up with Mark to work as a team in order to keep things fresh as two heads are better than one. Simon is not intimidated and only inspired by the big boys in the game and one day hopes to stand shoulder to shoulder with them. To achieve this aim Simon is due to start reading for a Master’s Degree in Brewing &amp; Distilling at Herriot Watt University.
+            </p>
+        </div>
+    </div>
+    <div class="col-md">
+        <div class="markg">
+            <img src=/img/mark2.jpg class="img-fluid rounded-circle">
+            <h1 class="display-4">Mark</h1>
+            <p class="lead">
+                Assistant Brewer
+            </p>
+            <p>
+                Mark discovered craft beer after a road trip to America in 2008 where each town had its own beer, which was a joy to try. This passion was brought home and resulted in a few lean years in the UK trying to find craft whilst the home market caught up with our transatlantic cousins. However now that the UK holds it own it became important to try and become part of the exciting industry. Partnering up brewing with his university friend, Simon, he hopes to offer customers a no compromise, innovative drinking experience.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
