@@ -3,6 +3,19 @@ body {
     color: antiquewhite
 }
 
+a:link {
+    color: grey;
+}
+a:visited {
+    color: darkgrey;
+}
+a:hover {
+    color: lightgrey;
+}
+a:active {
+    color: white;
+}
+
 .jumbotron {
     background-color: #0A0A0A
 }
