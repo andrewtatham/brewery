@@ -1,8 +1,8 @@
 <title>{{ .Site.Title }} - {{ .Title }}</title>
 <meta charset="utf-8">
-<meta name="description" content="Wrath &amp; Ruin Brewing">
-<meta name="keywords" content="Wrath, Ruin, Beer, Bewery, Brewing, Simon Wynne, Mark Gelder, Vegetarian, Vegan, nanobrewery, microbrewery, Leeds, Sherburn in Elmet">
-<meta name="author" content="Andrew Tatham">
+<meta name="description" content="{{ .Site.Params.description }}">
+<meta name="keywords" content="{{ .Site.Params.keywords }}">
+<meta name="author" content="{{ .Site.Params.author }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {{ template "_internal/google_analytics.html" . }}

@@ -8,6 +8,9 @@ pluralizelisttitles = false
 googleAnalytics = "UA-61053235-2"
 
 [params]
-facebook = "https://www.facebook.com/WrathnRuin/"
-twitter = "https://www.twitter.com/Wrath_n_Ruin/"
-email = "wrathandruinbrewing@gmail.com"
+    facebook = "https://www.facebook.com/WrathnRuin/"
+    twitter = "https://www.twitter.com/Wrath_n_Ruin/"
+    email = "wrathandruinbrewing@gmail.com"
+    author = "Andrew Tatham"
+    description = "Wrath &amp; Ruin Brewing"
+    keywords = "Wrath, Ruin, Beer, Bewery, Brewing, Simon Wynne, Mark Gelder, Vegetarian, Vegan, nanobrewery, microbrewery, Leeds, Sherburn in Elmet"
