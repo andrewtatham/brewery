@@ -1,9 +1,9 @@
 ---
 title: "About"
 ---
-Wrath & Ruin Brewing Company is located midway between Leeds and York, in a village called Sherburn in Elmet. 
+Wrath & Ruin Brewing Company is located midway between Leeds and York, in a village called Sherburn in Elmet.
 
-With a focus on providing innovative craft beer to our customers, we source ingredients locally and ethically to create taste sensations. 
+With a focus on providing innovative craft beer to our customers, we source ingredients locally and ethically to create taste sensations.
 
 We are a part time nano-brewery, with big ambitions!
 
