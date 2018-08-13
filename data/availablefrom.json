@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Raynville Superstore",
+        "telephone":"0113 275 2894",
+        "address":"14-16 Raynville Rd, Leeds LS12 2TF",
+        "googlemaps":"https://goo.gl/maps/yFrmXkWoQuz",
+        "website":"http://raynvillesuperstore.co.uk",
+        "email":"info@raynvillesuperstore.co.uk",  
+        "twitter":"https://twitter.com/Raynville_Leeds",
+        "facebook":"https://www.facebook.com/RaynvilleSuperstore",
+        "instagram":"https://www.instagram.com/raynvillesuperstore"
+    },
+    {
+        "name":"Growlers Beer Shop",
+        "telephone":"0113 274 1050",
+        "address":"29 Otley Rd, Leeds LS6 3AA",
+        "googlemaps":"https://goo.gl/maps/FYsE3YQBrJD2",
+        "website":"https://www.growlersbeer.co.uk",
+        "email":"hello@growlersbeer.co.uk",  
+        "twitter":"https://twitter.com/growlersbeer",
+        "facebook":"https://www.facebook.com/growlersbeer",
+        "instagram":"http://instagram.com/growlersbeeruk"
+    },
+    {
+        "name":"The Mended Drum",
+        "telephone":"01347 810264",
+        "address":"Tollerton Rd, Huby, York YO61 1HT",
+        "googlemaps":"https://goo.gl/maps/5AD1j844fFB2",
+        "website":"https://www.themendeddrum.com",
+        "twitter":"https://twitter.com/MendedDrumHuby",
+        "facebook":"https://www.facebook.com/mendeddrumhuby",
+        "tripadvisor":"https://www.tripadvisor.co.uk/Restaurant_Review-g1096410-d2617684-Reviews-The_Mended_Drum-Huby_North_Yorkshire_England.html"
+    }
+]

@@ -1,0 +1,61 @@
+<h6>{{ .name }}</h6>
+<ul class="list-unstyled">
+
+    {{ if isset . "googlemaps" }}
+    <li class="">
+        <a href="{{ .googlemaps }}" target="_blank">
+            <i class="fas fa-map-marked-alt"></i>
+            {{ .address }}
+        </a>
+    </li>
+    {{ end }} {{ if isset . "telephone" }}
+    <li class="">
+
+        <i class="fas fa-phone-square"></i>
+        {{ .telephone }}
+
+    </li>
+    {{ end }} {{ if isset . "website" }}
+    <li class="">
+        <a href="{{ .website }}" target="_blank">
+            <i class="fas fa-globe"></i>
+            {{ .website }}
+        </a>
+    </li>
+    {{ end }} {{ if isset . "email" }}
+    <li class="">
+        <a href="mailto:{{ .email }}">
+            <i class="fas fa-envelope-square"></i>
+            {{ .email }}
+        </a>
+    </li>
+    {{ end }}
+</ul>
+
+<ul class="list-inline">
+    {{ if isset . "facebook" }}
+    <li class="list-inline-item">
+        <a href="{{.facebook}}" target="_blank">
+            <i class="fab fa-facebook-square"></i>
+        </a>
+    </li>
+    {{ end }} {{ if isset . "twitter" }}
+    <li class="list-inline-item">
+        <a href="{{.twitter}}" target="_blank">
+            <i class="fab fa-twitter-square"></i>
+        </a>
+    </li>
+    {{ end }} {{ if isset . "instagram" }}
+    <li class="list-inline-item">
+        <a href="{{.instagram}}" target="_blank">
+            <i class="fab fa-instagram"></i>
+        </a>
+    </li>
+    {{ end }} {{ if isset . "tripadvisor" }}
+    <li class="list-inline-item">
+        <a href="{{.tripadvisor}}" target="_blank">
+            <i class="fab fa-tripadvisor"></i>
+        </a>
+    </li>
+    {{ end }}
+</ul>

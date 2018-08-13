@@ -1,0 +1,8 @@
+<h5>Available from</h5>
+<div class="row">
+    {{ range $.Site.Data.availablefrom }}
+    <div class="col">
+        {{ partial "availablefrom.html" . }}
+    </div>
+    {{ end }}
+</div>
