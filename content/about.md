@@ -7,7 +7,7 @@ With a focus on providing innovative craft beer to our customers, we source ingr
 
 We are a part time nano-brewery, with big ambitions!
 
-![Map](/img/map.png)
+<img class="img-fluid" src="/img/map.png">
 
 * **Local** - As many of our ingredients as possible will be locally sourced – Our Malt is from Thomas Fawcett in Castleford and we are currently building relationships with local farms to source, strawberries, rhubarb, raspberries and gooseberries amongst other things.
 
